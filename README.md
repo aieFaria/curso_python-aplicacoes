@@ -11,7 +11,7 @@
 A aplicação gira em torno da função "geraJogo" que recebe como parâmetros:
 1) "qntd"(posicional): indica a quantidade de números por jogo; 
 2) "intervalo"(Nomeado): qual a faixa de números a serem sorteados; 
-3)"numJogos"(Nomeado): quantidade de jogos a serem gerados.
+3) "numJogos"(Nomeado): quantidade de jogos a serem gerados.
 
 sintaxe: geraJogo(6, intervalo=(1, 60), numJogos=1)
 
