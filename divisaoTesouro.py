@@ -5,4 +5,4 @@ A = int(input())
 N = int(input())
 
 
-print(2*(A/(N+2)))
+print(int(2*(A/(N+2))))
