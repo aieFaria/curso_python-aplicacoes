@@ -1,4 +1,4 @@
-# Contemple aplicações reais de PYTHON em exercicios 
+# Contemple aplicações de PYTHON em exercicios 
 
 
 ## Objetivo:
@@ -18,3 +18,8 @@ sintaxe: geraJogo(6, intervalo=(1, 60), numJogos=1)
   |> Aplicação de list comprehension
   |> Comparação de listas utilizando intersecção
   |> Bom desempenho
+
+### animacao.py
+Tentativa de criar um jogo de caça ao tesouro simples.
+Possiveis Ação: W - Cima, A - Esquerda, S - Baixo, D - Direita
+Para movimentar o jogador no mapa
