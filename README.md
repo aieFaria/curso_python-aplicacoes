@@ -4,6 +4,7 @@
 ## Objetivo:
   1) Solucionar problemas do site de olimpiadas de programação
     1.1) https://olimpiada.ic.unicamp.br/pratique/pj/
+  2) Criar pequeno portifólio de apresentação
 
 # Documentação p/ exercícios feitos
 
@@ -22,4 +23,4 @@ sintaxe: geraJogo(6, intervalo=(1, 60), numJogos=1)
 ### animacao.py
 Tentativa de criar um jogo de caça ao tesouro simples.
 Possiveis Ação: W - Cima, A - Esquerda, S - Baixo, D - Direita
-Para movimentar o jogador no mapa
+~ Para movimentar o jogador no mapa
